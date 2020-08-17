@@ -24,7 +24,6 @@ PRODUCT_COPY_FILES += \
     vendor/samsung/j7velte/proprietary/vendor/etc/wifi/nvram.txt:$(TARGET_COPY_OUT_VENDOR)/etc/wifi/nvram.txt \
     vendor/samsung/j7velte/proprietary/vendor/firmware/bcm43438_V0068.0285.hcd:$(TARGET_COPY_OUT_VENDOR)/firmware/bcm43438_V0068.0285.hcd \
     vendor/samsung/j7velte/proprietary/vendor/firmware/fimc_is_lib.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/fimc_is_lib.bin \
-    vendor/samsung/j7velte/proprietary/vendor/firmware/mfc_fw.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/mfc_fw.bin \
     vendor/samsung/j7velte/proprietary/vendor/firmware/setfile_3l2.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/setfile_3l2.bin \
     vendor/samsung/j7velte/proprietary/vendor/firmware/setfile_5e3.bin:$(TARGET_COPY_OUT_VENDOR)/firmware/setfile_5e3.bin \
     vendor/samsung/j7velte/proprietary/vendor/lib/hw/android.hardware.bluetooth@1.0-impl.so:$(TARGET_COPY_OUT_VENDOR)/lib/hw/android.hardware.bluetooth@1.0-impl.so \
